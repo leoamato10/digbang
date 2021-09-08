@@ -8,7 +8,6 @@ export const design = {
   },
   content: {
     backgroundColor: '#003B66',
-    width: '95%',
     paddingVertical: 50,
   },
   slidersContent: {
@@ -28,6 +27,7 @@ export const design = {
     fontWeight: 'bold',
     textAlign: 'center',
     textAlignVertical: 'center',
+    fontFamily: 'Monserray-Regular.ttf',
   },
   highlightedText: {
     color: 'white',
